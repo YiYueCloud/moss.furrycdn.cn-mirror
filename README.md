@@ -1,4 +1,11 @@
 # moss.furrycdn.cn
+
+![GitHub License](https://img.shields.io/github/license/YiYueCloud/moss.furrycdn.cn-mirror) ![GitHub language count](https://img.shields.io/github/languages/count/YiYueCloud/moss.furrycdn.cn-mirror) 
+#MOSS 信息共享平台（开源学习版）版本 镜像
+由于官方站点有时会访问受阻，故增开次站点，保留[原站](https://moss.mossgov.tech/)所有权
+原站状态：![Website](https://img.shields.io/website?url=https%3A%2F%2Fmoss.mossgov.tech)|镜像状态：![Website](https://img.shields.io/website?url=https%3A%2F%2Fmoss.mossgov.tech)
+
+
 #MOSS 信息共享平台（开源学习版）版本 3.0
 
 一、项目概述
